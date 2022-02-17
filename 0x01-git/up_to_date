@@ -1,0 +1,4 @@
+git checkout up_to_date
+git fetch origin
+git pull origin main
+git push origin up_to_date
